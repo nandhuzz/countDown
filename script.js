@@ -1,4 +1,4 @@
-const targetDate = new Date("04/06/2025"); // mm/dd/yyyy
+const targetDate = new Date("04/07/2025"); // mm/dd/yyyy
 
 // Cache DOM elements to avoid repeated lookups
 const elements = {
